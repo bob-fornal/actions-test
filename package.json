@@ -1,0 +1,16 @@
+{
+  "name": "site-generator--custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node index.js",
+    "build-ts": "esrun index-ts.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
